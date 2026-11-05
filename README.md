@@ -27,3 +27,6 @@ Bu çalışmada, denetimsiz öğrenme yöntemlerinden **K-Means Kümeleme** algo
 
 ### 3. Aşama Çıktısı (81 İl Optimize K-Means)
 ![Aşama 3 Grafiği](k_mean_3_opti.png)
+
+### Türkiye Resmi 7 Coğrafi Bölgesi (Referans)
+![Türkiye Resmi 7 Coğrafi Bölgesi](turkiye_gercek_bolgeler.png)
