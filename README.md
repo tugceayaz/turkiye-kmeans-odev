@@ -38,3 +38,11 @@ Projede algoritma 3 aşamada ele alınmıştır:
 
 3. **Kümeleme (Clustering):**
    * **Problem:** Etiketsiz veride müşterilerin `Income` (Gelir) ve harcama alışkanlıkları özelliklerinin K-Means / Hiyerarşik Kümeleme ile gruplanarak "Tasarruflu Müşteri", "Premium Müşteri", "Fırsatçı Alışverişçi" gibi alt hedef kitle segmentlerine ayrılması.
+### 1. Aşama Çıktısı (İlk 7 İl, k=2)
+![Aşama 1 Grafiği](/Users/tugceayaz/Desktop/turkiye-kmeans-odev/k_means_1_nonOpti.png)
+
+### 2. Aşama Çıktısı (81 İl, k=7)
+![Aşama 2 Grafiği](/Users/tugceayaz/Desktop/turkiye-kmeans-odev/k_means_2_81_nonOpti.png)
+
+### 3. Aşama Çıktısı (81 İl Optimize K-Means)
+![Aşama 3 Grafiği](i/Users/tugceayaz/Desktop/turkiye-kmeans-odev/k_mean_3_opti.png)
